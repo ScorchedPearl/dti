@@ -17,3 +17,10 @@ python3 source/build.py a2
 ```
 
 The output is written to `source/build/a2.pdf`.
+
+## Miro boards
+
+- [A2 · Define](https://miro.com/app/board/uXjVEUUcCgI=/): personas, priority matrix, HMW dot vote, problem statements, points of view, hypotheses, user stories
+- [A2 · Customer Journey Maps](https://miro.com/app/board/uXjVEUUaJqE=/): journey maps for Ananya, Kabir, Rohan and Meera
+
+Details in [miro/README.md](miro/README.md).
